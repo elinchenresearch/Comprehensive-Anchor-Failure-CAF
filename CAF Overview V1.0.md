@@ -47,24 +47,3 @@ CAF can be traced across developmental stages:
 
 ---
 
-## 🔄 Relation to Other Frameworks
-- **Epistemic Autarchy** → synthetic anchor replacement  
-- **Signal Gating** → substitute filters for trust/language  
-- **Structural Karma** → anchor inversions as systemic loops  
-- **Theorein** → logic theorem proven after void  
-- **Structural Wager** → refusal of collapse after anchors failed  
-
----
-
-## 📌 Research Positioning
-CAF offers:
-- A general evaluative tool: all trauma types can be mapped by anchors × modes × intensity.  
-- An empirical boundary-condition case study: rare but disproportionately valuable.  
-- A foundation for theory + intervention: linking individual survival logic with systemic failure analysis.
-
----
-
-## ⚠️ Disclaimer
-This repo is not a personal diary or therapy notes.  
-It is a **structured documentation of a boundary-condition survival case** and its theoretical implications.  
-Content is for research, conceptual development, and cross-framework integration.
