@@ -1,5 +1,19 @@
+## 🧩 Group Information  
+
+**Comprehensive Anchor Failure (CAF)** is the **boundary-condition framework** of the research system.  
+
+- Defines the state of **comprehensive anchor failure**.  
+- Provides the **structural starting point** for *Epistemic Autarchy (EA)*.  
+- Not a therapeutic model or diagnostic tool, but a **phenomenological map of system collapse**.  
+- Other frameworks (e.g., EA, WPE) build **after** CAF, not parallel to it.  
+
+  
+---
+
+
 # Comprehensive Anchor Failure (CAF)
 **Status:** Living Framework — under active development. 
+
 
 ## Definition
 **Comprehensive Anchor Failure (CAF)** describes the condition where the fundamental anchors of human psychological life are compromised to the point that no single anchor can reliably stabilize the system.  
