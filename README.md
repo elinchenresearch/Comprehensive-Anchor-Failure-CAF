@@ -1,4 +1,5 @@
 # Comprehensive Anchor Failure (CAF)
+**Status:** Living Framework — under active development. 
 
 ## Definition
 **Comprehensive Anchor Failure (CAF)** describes the condition where the fundamental anchors of human psychological life are compromised to the point that no single anchor can reliably stabilize the system.  
