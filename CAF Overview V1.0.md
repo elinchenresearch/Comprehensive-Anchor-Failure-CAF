@@ -1,4 +1,5 @@
-# Comprehensive Anchor Failure (CAF)
+# Comprehensive Anchor Failure (CAF)-V1.0
+9 September 2025
 
 **Comprehensive Anchor Failure (CAF)** describes a boundary-condition state where all nine human anchors — survival, safety, existence, identity, trust, dignity, language, agency, belonging — fail through absence, inversion, mutation, or void. This repo documents CAF as the empirical foundation for downstream frameworks such as Epistemic Autarchy, Signal Gating, Structural Karma, and Theorein.
 
